@@ -24,7 +24,7 @@ This database can be cloned to your local environment for data science projects 
 
 In your computer's terminal, type the following commands:
 fyi: this project assumes that you already have git installed in your system, if not, then access this resource for guidance: 
-[git installation guide][https://git-scm.com/install]
+[git installation guide](https://git-scm.com/install)
 
 `git clone git@github.com:r0elcompute/openschool_database.git`
 
